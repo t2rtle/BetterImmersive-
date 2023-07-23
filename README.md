@@ -52,3 +52,69 @@
 - Eating Animation | https://modrinth.com/mod/eating-animation/version/1.9.4
 - EnhancedVisuals | https://modrinth.com/mod/enhancedvisuals/version/1.6.7
 - Loading Screen Tips | https://modrinth.com/mod/loadingscreentips/version/v1.3.0
+- Auto HUD | https://modrinth.com/mod/autohud/version/6.1+1.20
+- Neutral Animals | https://modrinth.com/mod/neutral-animals/version/1.2.4
+- Cave Dust | https://modrinth.com/mod/cave-dust/version/1.4.1
+- Sodium Extra | https://modrinth.com/mod/sodium-extra/version/mc1.20.1-0.4.23
+- Tiny Item Animations | https://modrinth.com/mod/tiny-item-animations/version/1.20-1.1
+- Iris Shaders | https://modrinth.com/mod/iris/version/1.6.4+1.20
+- Skip Transitions | https://modrinth.com/mod/skip-transitions/version/v1.3.3+mc1.20.x
+- Mine Spawners | https://modrinth.com/mod/mine-spawners/version/1.0.2
+- Wakes | https://modrinth.com/mod/wakes/version/0.1.6
+- Reworked: Sleep To Night | https://modrinth.com/mod/reworked-sleep-to-night/version/1.0.2
+- Starlight (Fabric) | https://modrinth.com/mod/starlight/version/1.1.2+1.20
+- Console Sounds | https://modrinth.com/mod/consolesounds/version/1.1.7
+- Who am I? | https://modrinth.com/mod/whoami/version/1.1
+- Jingle | https://modrinth.com/mod/jingle/version/1.0.2
+- AmbientSounds | https://modrinth.com/mod/ambientsounds/version/5.2.20
+- MidnightLib | https://modrinth.com/mod/midnightlib/version/1.4.1-fabric
+- Fungi | https://modrinth.com/mod/fungi/version/0.2.2
+- Lithium | https://modrinth.com/mod/lithium/version/mc1.20.1-0.11.2
+- ImmediatelyFast | https://modrinth.com/mod/immediatelyfast/version/1.1.16+1.20.1
+- Detail Armor Bar | https://modrinth.com/mod/detail-armor-bar/version/2.6.3+1.20.1-fabric
+- CIT Resewn | https://modrinth.com/mod/cit-resewn/version/1.1.3+1.20
+- Better Archeology | https://modrinth.com/mod/better-archeology/version/1.0.2
+- Cherished Worlds | https://modrinth.com/mod/cherished-worlds/version/6.1.1+1.20.1
+- NicerTabBackground | https://modrinth.com/mod/nicertabbackground/version/2.0.0
+- Trinkets | https://modrinth.com/mod/trinkets/version/3.7.1
+- Animal Feeding Trough | https://modrinth.com/mod/animal_feeding_trough/version/1.0.3+1.20.1
+- BackTools | https://modrinth.com/mod/backtools/version/1.20.1-1
+- Mod Menu | https://modrinth.com/mod/modmenu/version/7.2.1
+- First-person Model | https://modrinth.com/mod/first-person-model/version/2.2.3-1.20
+- Biome Moss | https://modrinth.com/mod/biome-moss/version/1.1.0
+- CameraOverhaul | https://modrinth.com/mod/cameraoverhaul/version/1.4.0-fabric-universal
+- YetAnotherConfigLib | https://modrinth.com/mod/yacl/version/3.0.3+1.20-fabric
+- Sound Physics Remastered | https://modrinth.com/mod/sound-physics-remastered/version/fabric-1.20.1-1.1.1
+- butter | https://modrinth.com/mod/butter/version/1.1.0+1.20.1
+- Tom's Simple Storage Mod | https://modrinth.com/mod/toms-storage/version/1.20-1.6.4-fabric
+- Fabric API | https://modrinth.com/mod/fabric-api/version/0.85.0+1.20.1
+- Xaero's World Map | https://modrinth.com/mod/xaeros-world-map/version/1.31.0_Fabric_1.20
+- You Were Slain | https://modrinth.com/mod/you-were-slain/version/1.0.0-1.20.x
+- Text Placeholder API | https://modrinth.com/mod/placeholder-api/version/2.1.1+1.20
+- CreativeCore | https://modrinth.com/mod/creativecore/version/2.10.28
+- Disable Accessibility Screen | https://modrinth.com/mod/disable-accessibility-screen/version/1.0.1
+- Panda's Falling Tree's | https://modrinth.com/mod/pandas-falling-trees/version/1.19.3-1.20.1+0.5.3-beta
+- Motion Blur (Fabric) | https://modrinth.com/mod/motionblur/version/1.0.2+mc1.20
+- Mouse Tweaks | https://modrinth.com/mod/mouse-tweaks/version/1.20-2.25-fabric
+- Shulker Charm | https://modrinth.com/mod/shulker-charm/version/1.2.0
+- Passable Foliage 🌳 | https://modrinth.com/mod/passable-foliage/version/8.0.0
+- Reinforced Shulker Boxes | https://modrinth.com/mod/reinforced-shulker-boxes/version/2.4.1+1.20
+- Calibrated Access | https://modrinth.com/mod/calibrated/version/1.2.1+1.20
+- Reset Keys Confirmation Screen | https://modrinth.com/mod/reset-keys-confirmation-screen/version/1.0.0+1.20.1
+- Torch hit! | https://modrinth.com/mod/torch-hit/version/6.0.1.2
+- Fabric Lenguage Kotlin | https://modrinth.com/mod/fabric-language-kotlin/version/1.10.8+kotlin.1.9.0
+- Cloth Config API | https://modrinth.com/mod/cloth-config/version/11.1.106+fabric
+- ImmersiveMC | https://modrinth.com/mod/immersivemc/version/1.4.0-beta1.1
+- Traveler's Backpack | https://modrinth.com/mod/travelersbackpack/version/1.20.1-9.1.2
+- Pick Up Notifier | https://modrinth.com/mod/pick-up-notifier/version/v8.0.0-1.20.1-Fabric
+- Universal Graves | https://modrinth.com/mod/universal-graves/version/3.0.0-beta.4+1.20.1
+- Ecospherical Expansion | https://modrinth.com/mod/ecospherical-expansion/version/1.2.2
+- Dehydration | https://modrinth.com/mod/dehydration/version/1.3.4+1.20.1
+- DamageVignette | https://modrinth.com/mod/damagevignette/version/2.0.2
+- Load My Resources | https://modrinth.com/mod/load-my-resources/version/1.0.4-1-1.20-fabric
+- Sodium | https://modrinth.com/mod/sodium/version/mc1.20-0.4.10
+- Early Loading Screen | https://modrinth.com/mod/early-loading-screen/version/0.1.1+1.20.1
+- Thermite | https://modrinth.com/mod/thermite/version/2.2.0
+- TitleChanger | https://modrinth.com/mod/mctitlechanger/version/1.9.2p2
+- Draggable Lists | https://modrinth.com/mod/draggable-lists/version/1.0.0
+- 
