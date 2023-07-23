@@ -12,4 +12,9 @@
 - Controlling | https://modrinth.com/mod/controlling/version/12.0.2
 - Display Case | https://modrinth.com/mod/displaycase/version/1.0.5
 - Drip Sounds (Fabric) | https://modrinth.com/mod/dripsounds-fabric/version/1.19-0.3.2
-- 
+- Simple Paxels | https://modrinth.com/mod/simplepaxels/version/1.0.0
+- Reinforced Chests | https://modrinth.com/mod/reinforced-chests/version/2.4.2+1.20
+- CIT Resewn: Defaults | https://modrinth.com/mod/cit-resewn-defaults/version/1.1.3+1.20
+- Falling Leaves | https://modrinth.com/mod/fallingleaves/version/1.15.2+1.20.1
+- Architectury API | https://modrinth.com/mod/architectury-api/version/9.1.10+fabric
+- Bucketable | https://modrinth.com/mod/bucketable/version/3.1+mod
