@@ -117,4 +117,8 @@
 - Thermite | https://modrinth.com/mod/thermite/version/2.2.0
 - TitleChanger | https://modrinth.com/mod/mctitlechanger/version/1.9.2p2
 - Draggable Lists | https://modrinth.com/mod/draggable-lists/version/1.0.0
-- 
+- Continuity | https://modrinth.com/mod/continuity/version/3.0.0-beta.3+1.20.1
+- playerAnimator | https://modrinth.com/mod/playeranimator/version/1.0.2-rc1+1.20-fabric
+- LinsAPI | https://modrinth.com/mod/linsapi/version/1.4.6
+- Indium | https://modrinth.com/mod/indium/version/1.0.21+mc1.20.1
+- Elytra Trims | https://modrinth.com/mod/elytra-trims/version/1.1.9
